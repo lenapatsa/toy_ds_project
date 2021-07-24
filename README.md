@@ -1,2 +1,2 @@
 # toy_ds_project
-project creation date:07/24/2021
+project creation date: Jul 24, 2021
